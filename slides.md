@@ -15,6 +15,8 @@ pre code {
 
 ### React Native Fundamentals
 
+- Cameron Wilby (@cameronwilby)
+
 ---
 
 # Goals of this talk
