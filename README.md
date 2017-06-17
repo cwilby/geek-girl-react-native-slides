@@ -2,10 +2,6 @@
 
 > Slides for React Native talk given at Geek Girl Tech Conference 2017
 
-## Options for viewing slides
-1. Open `slides.pdf`
-2. Clone repo and run reveal-md to see slideshow.
-
 ## Recommended Tools
 - **Repl.it**: https://rebrand.ly/react-native-class/
 - **Expo**: https://snack.expo.io/
